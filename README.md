@@ -24,7 +24,7 @@ What things you need to install the software and how to install them
 
 5) Socket.io: https://socket.io/docs/server-installation
 
-6)PostgreSQL: https://www.postgresql.org/docs/9.3/tutorial-install.html
+6) PostgreSQL: https://www.postgresql.org/docs/9.3/tutorial-install.html
 
 
 ### Installing
