@@ -22,14 +22,14 @@ What things you need to install the software and how to install them
 
 4) Sequelize for postgreSQL: https://sequelize.org/master/manual/getting-started.html
 
-5) Socket.io: https://socket.io/docs/server-installation/
+5) Socket.io: https://socket.io/docs/server-installation
 
 6)PostgreSQL: https://www.postgresql.org/docs/9.3/tutorial-install.html
 
 
 ### Installing
 
-After installing react on your computer, open it using terminal and install the dependencies needed.
+After installing react on your computer, open it using terminal and install the dependencies needed. (both frontend and backend)
 
 ```
 npm install
