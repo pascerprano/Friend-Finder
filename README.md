@@ -39,9 +39,6 @@ npm install
 * [ReactJs](https://reactjs.org/)
 * [NodeJs](https://nodejs.org/en/) 
 
-## Authors
-
-* **Anush kumar N** - *Initial work* - [Anushkumar06](https://github.com/Anushkumar06)
 
 ## License
 
